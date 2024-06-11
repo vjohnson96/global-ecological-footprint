@@ -22,7 +22,7 @@ At the end of the analysis it was possible to reach the following conclusions:
 Bellow are the top 10 countries with the higher ecological footprints in the world.
 It was surprising to see that 4 out of ten countries are from Middle East/ Central Asia region.
 
-![Image]
+![Image](https://github.com/vjohnson96/global-ecological-footprint/blob/main/Visualizations/Top10countries.PNG)
 
 Bulding up from the insight given by the first visualization, reveal how each region contributes becomes an interesting idea.
 To do so, the data was grouped by region, calculation the mean and total ecological footprint consumption
