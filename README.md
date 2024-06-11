@@ -24,11 +24,13 @@ It was surprising to see that 4 out of ten countries are from Middle East/ Centr
 
 ![Image](https://github.com/vjohnson96/global-ecological-footprint/blob/main/Visualizations/Top10countries.PNG)
 
+
 Bulding up from the insight given by the first visualization, reveal how each region contributes becomes an interesting idea.
 To do so, the data was grouped by region, calculation the mean and total ecological footprint consumption
 It's possible to visualize the result on the bar plot bellow:
 
-![Image]
+
+![Image](https://github.com/vjohnson96/global-ecological-footprint/blob/main/Visualizations/GlobalRegion.PNG)
 
 Through the years of study of ecological footprint, specialist got to the conclusion that the more developed and strongly industrialized countries have a higher Ecological Footprint. To confirm this affirmation a scatter plot was built to visulize the correlation between the 'Per Capita GDP' and 'Total Ecological Footprint':
 
