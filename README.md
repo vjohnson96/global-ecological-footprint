@@ -34,5 +34,10 @@ It's possible to visualize the result on the bar plot bellow:
 
 Through the years of study of ecological footprint, specialist got to the conclusion that the more developed and strongly industrialized countries have a higher Ecological Footprint. To confirm this affirmation a scatter plot was built to visulize the correlation between the 'Per Capita GDP' and 'Total Ecological Footprint':
 
-![Image]
+![Image](https://github.com/vjohnson96/global-ecological-footprint/blob/main/Visualizations/Scatter.PNG)
 
+The 2 variables present a correlation of 0.80, suggesting a strong relationship between them!
+
+## Learnings and Next Steps
+The project was fully developed in Jupyter Notebook IDE, and that was the idea from the start. Provide quick answers and visualizations in the IDE to easily understand the problem was the goal, and at the end it was achieved.
+Mission acomplished, but what's next? Despite the good quality of the visualizations developed with seaborn and matplotlib, the aim is to make it even better with a PowerBI dashboard. 
