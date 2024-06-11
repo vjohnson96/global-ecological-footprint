@@ -14,7 +14,23 @@ As the year go by, any theme regarding Earth's health gains more importance. I p
 The Ecological Footprint is sustainability indicator used to understand the impact of natural resources consumption by society. In other words, it corresponds to the number of productive areas, measured in global hectares (gha), necessary to genreate all products and services for our every day necessities (source: WWF). 
 In terms of numbers, as the global footprint increases, higher is the impact on the environment.
 
+## Data Analysis and Results
 To check the Data Analysis step by step, Click [HERE](https://github.com/vjohnson96/global-ecological-footprint/blob/main/project_global_footprint.ipynb)
 
+At the end of the analysis it was possible to reach the following conclusions:
 
+Bellow are the top 10 countries with the higher ecological footprints in the world.
+It was surprising to see that 4 out of ten countries are from Middle East/ Central Asia region.
+
+![Image]
+
+Bulding up from the insight given by the first visualization, reveal how each region contributes becomes an interesting idea.
+To do so, the data was grouped by region, calculation the mean and total ecological footprint consumption
+It's possible to visualize the result on the bar plot bellow:
+
+![Image]
+
+Through the years of study of ecological footprint, specialist got to the conclusion that the more developed and strongly industrialized countries have a higher Ecological Footprint. To confirm this affirmation a scatter plot was built to visulize the correlation between the 'Per Capita GDP' and 'Total Ecological Footprint':
+
+![Image]
 
